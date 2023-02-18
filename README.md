@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Liya</h1>
+<h1 align="center">Hi, I'm Liya 👋</h1>
 <h3 align="center">A recent graduate from the US looking to start my career in the field of data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liyaft&label=Profile%20views&color=0e75b6&style=flat" alt="liyaft" /> </p>
 
 - 🔭 I’m currently working on [Sentiment Analysis of Major US Airlines](https://github.com/Liyaft/airline-sentiment-analysis)
 
-- 🌱 I’m currently learning **Python,Power BI**
+- 🌱 I’m currently learning **Python and Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Liyaft](https://github.com/Liyaft)
 
