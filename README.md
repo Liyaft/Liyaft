@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Liyaft](https://github.com/Liyaft)
+- 👩🏾‍💻 All of my projects are available at [https://github.com/Liyaft](https://github.com/Liyaft)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
